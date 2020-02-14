@@ -1,0 +1,12 @@
+**.metadata/
+**.settings/
+**bin/
+**screenshots/
+**.log
+**.iml
+.project
+.settings/
+target/
+.classpath
+.idea/
+node_modules/

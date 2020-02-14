@@ -1,0 +1,5 @@
+# Atlassian SourceTree: How to change line endings globally?
+# https://superuser.com/questions/882691/atlassian-sourcetree-how-to-change-line-endings-globally
+text eol=lf
+# Encoding Format
+* text=auto encoding=UTF-8
